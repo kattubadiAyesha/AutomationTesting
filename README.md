@@ -1,2 +1,2 @@
 # AutomationTesting
-loctaion:bangluru
+loctaion:bengaluru;
